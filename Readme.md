@@ -6,4 +6,4 @@ App is in starting development stage.
 
 deployed: http://development.t0nemap.divshot.io
 
-Thanks: jQuery-ui, Angular, angular-drag-drop by codef0rmer.
+Thanks: jQuery-ui, Angular, jQuery, bourbon, neat
